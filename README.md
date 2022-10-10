@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C/C++, Machine Learning, Security etc.**
 
-- 📫 How to reach me **alamgir.cse14.just@gmail.co**
+- 📫 How to reach me **alamgir.cse14.just@gmail.com**
 
 - 📄 Know about my experiences [https://alamgirhossainjust.blogspot.com/p/blog-page.html](https://alamgirhossainjust.blogspot.com/p/blog-page.html)
 
